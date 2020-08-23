@@ -1,9 +1,9 @@
-## 高紹芳｜Christine Shao-Fang Kao
+## 高紹芳｜Christine Shào-Fāng Kāo
 ### 🎓 M.A. student in sociology, National Taiwan University 國立臺灣大學 社會學研究所 碩士生
 
 - 🏥 My research interest lies within the STS community, ranging from medical diagnosis to information management infrastructures. 
 - 🤝 I care about how humans interact with artifacts, including data, interface, regulations, within institutions, and during so, how they construct and apply meaning to their actions and behaviors. 
-- 📄 I’m currently co-drafting the law for eID (national security cards) with the [Taiwan Association for Human Rights (TAHR)](https://www.tahr.org.tw/) in Taiwan.
+- 📄 I’m currently co-drafting the law for eID (national security cards) with the [Taiwan Association for Human Rights (TAHR)](https://www.tahr.org.tw/).
 - 🤔 I’m looking to collaborate on advocating for **reasonable adjustments for mentally-illed students** in universities accross Taiwan. Contact my team about the project [Inclusion Taiwan](https://fb.me/inclusiontw) through [email](mailto:hi@inclusiontw.site), [Messenger](https://m.me/inclusiontw), [Twitter](https://twitter.com/inclusion_tw) or [Instagram](https://instagram.com/inclusion_tw).
 
 ### ℹ️ More about Christine
