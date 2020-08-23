@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Christine's github stats](https://github-readme-stats.vercel.app/api?username=christinesfkao)](https://github.com/anuraghazra/github-readme-stats)
+[![Christine's github stats](https://github-readme-stats.vercel.app/api?username=christinesfkao&theme=material-palenight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
