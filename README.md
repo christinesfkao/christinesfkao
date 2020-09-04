@@ -1,5 +1,6 @@
 ## 高紹芳｜Christine Shào-Fāng Kāo
 ### 🎓 M.A. student in sociology, National Taiwan University 國立臺灣大學 社會學研究所 碩士生
+![](christinesfkao.gif)
 
 - 🏥 My research interest lies within the STS community, ranging from medical diagnosis to information management infrastructures. 
 - 📜 I’m currently co-drafting the law for eID (national security cards) with the [Taiwan Association for Human Rights (TAHR)](https://www.tahr.org.tw/).
