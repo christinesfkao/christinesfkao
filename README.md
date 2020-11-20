@@ -3,14 +3,14 @@
 ![](christinesfkao.gif)
 
 - 🏥 My research interest lies within the STS community, ranging from medical diagnosis to information management infrastructures. 
-- 📜 I’m currently co-drafting the law for eID (national security cards) with the [Taiwan Association for Human Rights (TAHR)](https://www.tahr.org.tw/).
+- 🎼 Current Soprano Singer in the Taipei Opera Chorus. 
 - 🤔 I’m looking to collaborate on advocating for **reasonable adjustments for mentally-illed students** in universities accross Taiwan. Contact my team about the project [Inclusion Taiwan](https://fb.me/inclusiontw) through [email](mailto:hi@inclusiontw.site), [Messenger](https://m.me/inclusiontw), [Twitter](https://twitter.com/inclusion_tw) or [Instagram](https://instagram.com/inclusion_tw).
 
 ### ℹ️ More about Christine
 - 😄 Pronouns: she/her/你/她
 - 🌱 I'm native in Mandarin 🇹🇼, fluent in English 🇺🇸, meanwhile learning Deutsch 🇩🇪, Français 🇫🇷 and 日本語 🇯🇵.
-- 🎵 My side hustle include singing 🎼, playing the guitar 🎸 and the piano 🎹.
-- 🧘‍♀️ Last but not least, some yoga, meditation and journalling each day.
+- 🎵 My side hustle include singing 🎤, playing guitar 🎸 and piano 🎹.
+- ✨ Also working on tarot reading, astrology, yoga and meditation.
 
 ### 📫 Reach me through [email](mailto:hi@christinesfkao.tw) or social media [@christinesfkao](https://christinesfkao.tw)
 - 💬 Ask me about labor rights for graduate students, career advice on transferring majors, and self-management skills including minimalism and bullet journalling.
