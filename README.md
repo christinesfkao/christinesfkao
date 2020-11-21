@@ -7,7 +7,7 @@ My research interest lies within the STS community, ranging from medical diagnos
 #### 👩‍💻 Academic Work
 - Making use of what I learned during my EE major in undergrad, I'm working as part-time research assistants at both National Taiwan University and Academia Sinica.
 - I do **data crawling, cleaning and analysis** on social media data with *R, Python, a little bit of JavaScript/C++ and experience on Unix-like environments*. 
-- I'm looking forward to become a **computational social scientist** in the near future.
+- I'm looking forward to becoming a **computational social scientist** in the near future.
 
 [![Christine's github stats](https://github-readme-stats.vercel.app/api?username=christinesfkao&theme=material-palenight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinesfkao&layout=compact&theme=buefy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
