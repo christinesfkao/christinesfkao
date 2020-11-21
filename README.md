@@ -9,6 +9,8 @@ My research interest lies within the STS community, ranging from medical diagnos
 - I do **data crawling, cleaning and analysis** on social media data with *R, Python, a little bit of JavaScript/C++ and experience on Unix-like environments*. 
 - I'm looking forward to become a **computational social scientist** in the near future.
 
+[![Christine's github stats](https://github-readme-stats.vercel.app/api?username=christinesfkao&theme=material-palenight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinesfkao&layout=compact&theme=buefy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### 📣 Public Participation
 Outside academic work, I'm also advocating for **reasonable adjustments for mentally-illed students** in universities accross Taiwan. 
 
@@ -24,5 +26,3 @@ Contact my team about the project [Inclusion Taiwan](https://fb.me/inclusiontw) 
 
 ### 📫 Reach me through [email](mailto:hi@christinesfkao.tw) or social media [@christinesfkao](https://christinesfkao.tw)
 - 💬 Ask me about labor rights for graduate students, career advice on transferring majors, and self-management skills including minimalism and bullet journalling.
-
-[![Christine's github stats](https://github-readme-stats.vercel.app/api?username=christinesfkao&theme=material-palenight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinesfkao&layout=compact&theme=buefy&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
