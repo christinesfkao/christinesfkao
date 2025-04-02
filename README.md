@@ -1,5 +1,5 @@
 ## 高紹芳｜Christine Shào-Fāng Kāo
-### 🎓 M.A. student in sociology, National Taiwan University 國立臺灣大學 社會學研究所 碩士生
+### 🎓 ex-M.A. student in sociology, National Taiwan University 國立臺灣大學 社會學研究所 碩士生
 
 #### 🏥 Research Topics  
 My research interest lies within the STS community, ranging from medical diagnosis to information management infrastructures. 
